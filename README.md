@@ -10,9 +10,6 @@
   <a href="mailto:nawalauliahasanhunaifa@mail.ugm.ac.id">
     <img src="https://img.shields.io/badge/✉️_Email-nawalauliahasanhunaifa%40mail.ugm.ac.id-362F4C?style=flat-square&logoColor=E0DEF4" />
   </a>
-  <a href="https://nawal.io">
-    <img src="https://img.shields.io/badge/🌐_Website-nawal.io-362F4C?style=flat-square&logo=react&logoColor=E0DEF4" />
-  </a>
 </p>
 
 <br />
